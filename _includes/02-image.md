@@ -1,1 +1,1 @@
-![Image Of A Waterfall](file:///C:/Users/mukes/Downloads/Roger-Hostin.jpg)
+![Image Of A Waterfall](C:/Users/mukes/Downloads/Roger-Hostin.jpg)
